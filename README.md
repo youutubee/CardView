@@ -21,7 +21,7 @@
     <li>Clone the repository:</li>
   </ol>
   
-  <pre><code>git clone https://github.com/your_username/your_repository.git</code></pre>
+  <pre><code>git clone https://github.com/youutubee/CardView.git</code></pre>
   
   <ol start="2">
     <li>Open the project in Android Studio.</li>
